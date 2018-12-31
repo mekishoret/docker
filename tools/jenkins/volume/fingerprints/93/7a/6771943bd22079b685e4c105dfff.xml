@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-12-28 11:14:38.565 UTC</timestamp>
+  <md5sum>937a6771943bd22079b685e4c105dfff</md5sum>
+  <fileName>Credential id=CENTOS-USER-SSH-PEM name=centos (CENTOS-USER-SSH-PEM)</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@2.1.18">
+      <timestamp>1546004103688</timestamp>
+      <nodeName>slave1</nodeName>
+      <timestamp0>1546002543688</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>
